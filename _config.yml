@@ -1,9 +1,10 @@
-title: "My Portfolio"
+title: "My Project: A Guide"
 #description: "A showcase of my projects and work."
 
 # Social links
-social: https://www.linkedin.com/in/alfred-papa-0028b0172/
+social:
   github: Alfred Papa
   linkedin: Alfred Papa
-  
-theme: jekyll-theme-minimal
+  url: https://www.linkedin.com/in/alfred-papa-0028b0172/
+
+theme: minima
