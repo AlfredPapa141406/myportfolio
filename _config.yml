@@ -1,0 +1,15 @@
+title: "My Portfolio"
+#description: "A showcase of my projects and work."
+baseurl: "https://github.com/AlfredPapa141406"
+author: "ALFRED PAPA"
+
+theme: jekyll-theme-minimal
+
+# Social links
+social: https://www.linkedin.com/in/alfred-papa-0028b0172/
+  github: Alfred Papa
+  linkedin: Alfred Papa
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
